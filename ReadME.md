@@ -1,15 +1,14 @@
 # TruthSocial Dataset - The 2024 Election Integrity Initiative 
 
-TruthSocial, launched as a social media platform with a focus on free speech, has become a prominent space for political discourse, attracting a user base with diverse, often conservative, viewpoints. As an emerging platform with minimal content moderation, Truth Social has facilitated discussions around contentious social and political issues but has also seen the spread of conspiratorial and hyper-partisan narratives.
+TruthSocial, launched as a social media platform with a focus on free speech and minimal content moderation, has facilitated discussions around contentious social and political issues but has also seen the spread of conspiratorial and hyper-partisan narratives.
 
-This release is a comprehensive dataset capturing activity on TruthSocial related to the upcoming 2024 US Presidential Election, including posts, comments, user profiles, and interactions. This dataset comprises 1.5 million posts published between February 2022 and October 2024 and encompasses key metadata and user engagement metrics.
+This repository is a comprehensive dataset capturing activity on TruthSocial related to the upcoming 2024 US Presidential Election, including posts, comments and user interactions. This dataset comprises 1.5 million posts published between February 2022 and October 2024.
 
 ### Key Features of the Dataset
 
 - **Timeframe**: February 2022 - October 2024
 - **Number of Posts**: 1.5 million
-- **Included Data**: Posts, comments, user profiles, and interactions
-- **Metrics**: Key metadata and user engagement metrics
+- **Included Data**: Posts, comments, user interactions, content and media.
 
 Please find the dataset [here](https://www.kaggle.com/datasets/kashishashah/truthsocial-2024-election-integrity-initiative)
 
