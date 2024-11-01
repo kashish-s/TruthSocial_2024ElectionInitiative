@@ -26,7 +26,7 @@ By providing an in-depth view of TruthSocial’s user dynamics and content distr
 - Support further research on political discourse within an alt-tech social media platform.
 - Enable analysis of the impact of limited content moderation on political discussions and information dissemination.
 
-## Directory Structure - Scripts
+## About this Repository
 
 The repository includes a `scripts` folder containing tools to scrape, process, and analyze the dataset. Each script’s purpose is outlined below:
 
