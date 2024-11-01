@@ -11,7 +11,7 @@ This release is a comprehensive dataset capturing activity on TruthSocial relate
 - **Included Data**: Posts, comments, user profiles, and interactions
 - **Metrics**: Key metadata and user engagement metrics
 
-Please find the dataset [here]()
+Please find the dataset [here](https://www.kaggle.com/datasets/kashishashah/truthsocial-2024-election-integrity-initiative)
 
 ### Purpose and Research Potential
 
